@@ -116,7 +116,13 @@ Se cambiaria la fuente a 30v
 
 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
 
--
+![image](https://user-images.githubusercontent.com/105695077/170483679-3fbb16c0-584b-4a41-9383-c064e97cb420.png)
+
+![image](https://user-images.githubusercontent.com/105695077/170483725-ca1e2485-4d41-4080-b06e-14fdfaf51853.png)
+
+![image](https://user-images.githubusercontent.com/105695077/170483755-4b40b074-6583-48ee-966a-adda003f9d7a.png)
+
+![image](https://user-images.githubusercontent.com/105695077/170483781-be1cf739-85b9-494d-beb3-068047c8ad1a.png)
 
 16. Determine la corriente en cada caso:
 
@@ -130,17 +136,29 @@ d) V= 1 kV, R= 2.2 kΩ
 
 e) V= 66 kV, R=10 MΩ
 
+![image](https://user-images.githubusercontent.com/105695077/170483824-37ec9e38-0aeb-4a68-b89b-8f25de8c15f5.png)
+
 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 
--
+Coolores de la resistencia mencionada obtienen un valor de 3.3kΩ, para calcular el valor maximo de la corriente y el valor minimo se considera la tolerancia, en este caso la tolerancoia es del 5 %.Por lo tanto, se resta y se suma el 5 % al valor de la resistencia.
+
+Se obtiene que el nuevo valor +5% es de 3.35kΩ, la corriente que pasa por este valor utilizando la ley de ohm es de 3.58mA.
+
+El valor obtenido -5% de tolarancia es de 3.25%. la corriente que pasa por este valor utilizando la ley de ohm es de 3.69mA.
+
+La respuesta final: El valor de corriente es de 3.69mA mientras que el valor minimo es de 3.58mA
 
 20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
 
--
+![image](https://user-images.githubusercontent.com/105695077/170483936-e6a118d9-9d49-4af2-907d-62959f49954e.png)
+
+El valor de la resistencia es de 37.4kΩ. Para calcular la corriente, se utlizar la ley de ohm I= V/R, el resultado es: 0.32A
 
 22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 
 ![image](https://user-images.githubusercontent.com/105695077/170404760-3f7fbd92-7cbf-49ac-8356-6b7eb6b669e4.png)
+
+![image](https://user-images.githubusercontent.com/105695077/170484043-e72d6f9f-df7e-4c63-a026-823193048791.png)
 
 24. Calcule el voltaje para cada valor de I y R:
 
