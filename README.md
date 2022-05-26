@@ -106,7 +106,13 @@ El circuito que tiene menos corriente es el circuito (a).
 
 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
--
+IR = 100mA  R = V/IR  V = Ir * A
+
+Ir = 150mA  R = 20V/100mA  V = 150mA * 0.2Ω
+
+V = 20V   R = 0.2Ω   V = 30v
+
+Se cambiaria la fuente a 30v
 
 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
 
