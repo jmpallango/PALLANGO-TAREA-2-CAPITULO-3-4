@@ -108,5 +108,22 @@ e) V= 10V
 
 -
 
+16. Determine la corriente en cada caso:
+
+a) V= 9V, R=2.7 KΩ
+
+b) V= 5.5V, R=10KΩ
+
+c) V= 40V, R=68 KΩ
+
+d) V= 1 kV, R= 2.2 kΩ
+
+e) V= 66 kV, R=10 MΩ
+
+18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+-
+
+
 
 
