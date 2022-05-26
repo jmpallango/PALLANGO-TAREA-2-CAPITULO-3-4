@@ -31,7 +31,7 @@ Objetivo General:
 
 Objetivo Especifico:
 
-• Comprender el tipo de notaciones, cantidades y unidades que son utilizadas al momento de trabajar con circuitos eléctricos.
+• Comprender la ley de Ohm y como calcular las diferentes corrientes, voltajes, resistencias y fallas del circuitos.
 
 • Analizar las estructuras y cargas que son utilizadas al momento de trabajar con circuitos eléctricos.
 
