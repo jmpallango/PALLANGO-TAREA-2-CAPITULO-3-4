@@ -31,9 +31,8 @@ Objetivo General:
 
 Objetivo Especifico:
 
-• Comprender la ley de Ohm y como calcular las diferentes corrientes, voltajes, resistencias y fallas del circuitos.
+• Comprender la ley de Ohm y como calcular las diferentes corrientes, voltajes, resistencias y fallas del circuito.
 
-• Analizar las estructuras y cargas que son utilizadas al momento de trabajar con circuitos eléctricos.
+• Analizar la energia y potencia que son utilizadas al momento de ser aplicado en los circuitos y el tipo de herramientas que son utilizadas para su respectiva medición.
 
-• Observar las diferentes herramientas utilizadas al momento de trabajar con circuitos eléctricos.
 
