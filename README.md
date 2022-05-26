@@ -27,9 +27,9 @@ Jueves 25 de mayo de 2022
 
 Objetivo General:
 
-• Brindar los conocimientos y herramientas que permitan utilizar y analizar los principios de circuitos eléctricos y sus unidades.
+• Ayudar a comprender las diferentes leyes y energía que maneja los circuitos electricos y como estos pueden ser utilizados, medidos y calculados a travez de diferentes formulas y herramientas.
 
-Objetivos Específicos:
+Objetivo Especifico:
 
 • Comprender el tipo de notaciones, cantidades y unidades que son utilizadas al momento de trabajar con circuitos eléctricos.
 
