@@ -184,3 +184,53 @@ e) V= 150 V, I= 0.5 A
 
 (Capitulo 4)
 
+2. Demuestre que hay 3.6 X 10^6 joules en un kilowatt-hora.
+
+-
+
+4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+-
+
+6. Convierta las siguientes cantidades en kilowatts:
+
+a) 1000 W	
+
+b) 3750 W	
+
+c) 160 W	
+
+d) 50,000 W
+
+8. Convierta las siguientes cantidades en miliwatts:
+
+a) 1W		
+
+b) 0.4 W	
+
+c) 0.002 W	
+
+d) 0.0125 W
+
+10. Convierta las siguientes cantidades en watts:
+
+a) 1.5 kW	
+
+b) 0.5 MW	
+
+c) 350 mW	
+
+d) 9000 µW
+
+12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+
+-
+
+14. Convierta 5x10^6 watts-minutos en kWh.
+
+-
+
+16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47Ω para consumir 25 J?
+
+-
+
