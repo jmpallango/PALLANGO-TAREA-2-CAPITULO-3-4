@@ -101,6 +101,7 @@ Resistencia: 8200 Ω ± 5%
 ![image](https://user-images.githubusercontent.com/105695077/170404209-a330f4e0-5e99-45d6-9b76-5ebe9de00483.png)
 
 ![image](https://user-images.githubusercontent.com/105695077/170482722-77a86974-722e-4fce-a223-5afccc377173.png)
+
 El circuito que tiene menos corriente es el circuito (a).
 
 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
