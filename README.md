@@ -358,11 +358,12 @@ Eficiencia = (Pentrada)/(Psalida)→ Psalida = Pentrada/Eficiencia → Psalida =
 
 # VIDEO:
 
-
+https://youtu.be/yHjH53hQSYE
 
 # CONCLUSIONES:
+. Para un correcto manejo de las leyes hay que entender como funciona las diferentes formulas y como leer el tipo de medida utilizada para la energia de los circuitos.
 
-
+. Tanto la energia como la potencia nos ayuda a entender las caracteristicas que maneja las corrientes y como estos pueden ser aprovechados, conociendo las diferentes formas de leer estos datos y como calcularlos.
 
 # BIBLIOGRAFÍA:
 
