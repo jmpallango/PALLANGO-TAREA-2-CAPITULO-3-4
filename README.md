@@ -35,4 +35,7 @@ Objetivo Especifico:
 
 • Analizar la energia y potencia que son utilizadas al momento de ser aplicado en los circuitos y el tipo de herramientas que son utilizadas para su respectiva medición.
 
+# MARCO TEORICO:
+
+(Capitulo 3)
 
