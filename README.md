@@ -9,7 +9,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 
 
-TAREA 1: Capitulo 1 y 2 
+TAREA 1: Capitulo 3 y 4 
 
 
 
@@ -21,4 +21,4 @@ MGS. DARWIN OMAR ALULEMA FLORES
 
 Sangolquí- Ecuador
 
-Martes 17 de mayo de 2022 
+Jueves 25 de mayo de 2022
