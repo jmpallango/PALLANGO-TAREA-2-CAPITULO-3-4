@@ -124,6 +124,67 @@ e) V= 66 kV, R=10 MΩ
 
 -
 
+20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
 
+-
+
+22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+
+![image](https://user-images.githubusercontent.com/105695077/170404760-3f7fbd92-7cbf-49ac-8356-6b7eb6b669e4.png)
+
+24. Calcule el voltaje para cada valor de I y R:
+
+a) I =1mA, R = 10Ω
+
+b) I =50 mA, R = 33Ω
+
+c) I = 3A, R = 5.6kΩ
+
+d) I =1.6mA, R = 2.2kΩ
+
+e) I =250 µA, R = 1.0KΩ
+
+f) I =500 mA, R = 1.5MΩ
+
+g) I =850 µA, R = 10MΩ
+
+h) I =75 µA, R = 47 Ω
+
+26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
+
+![image](https://user-images.githubusercontent.com/105695077/170404888-37f4289c-c4e0-4b68-b9af-4d8b90b6cf85.png)
+
+28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+
+a) V= 10 V, I= 2 A
+
+b)  V= 90 V, I= 45 A
+
+c)  V= 50 V, I= 5 A
+
+d) V= 5.5 V, I= 10 A
+
+e) V= 150 V, I= 0.5 A
+
+30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
+-
+
+32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+
+-
+
+34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15Ω.
+
+-
+
+36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
+
+![image](https://user-images.githubusercontent.com/105695077/170405664-6035b96b-21a2-4c58-b596-630fa9a162a6.png)
+
+37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la
+mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
+
+-
 
 
