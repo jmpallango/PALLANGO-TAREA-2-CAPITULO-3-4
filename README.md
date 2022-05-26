@@ -158,8 +158,6 @@ El valor de la resistencia es de 37.4kΩ. Para calcular la corriente, se utliza
 
 ![image](https://user-images.githubusercontent.com/105695077/170404760-3f7fbd92-7cbf-49ac-8356-6b7eb6b669e4.png)
 
-![image](https://user-images.githubusercontent.com/105695077/170484043-e72d6f9f-df7e-4c63-a026-823193048791.png)
-
 24. Calcule el voltaje para cada valor de I y R:
 
 a) I =1mA, R = 10Ω
@@ -178,9 +176,43 @@ g) I =850 µA, R = 10MΩ
 
 h) I =75 µA, R = 47 Ω
 
+(a) I = 1 mA, R = 10 Ω
+
+![image](https://user-images.githubusercontent.com/105695077/170484349-5b314f33-d7ea-4e82-9059-bd392f4542bf.png)
+
+(b) I = 50 mA, R = 33 Ω
+
+![image](https://user-images.githubusercontent.com/105695077/170484395-6296783e-220f-43b0-98bc-78c7ff88cfaf.png)
+
+(c) I = 3 A, R = 5.6 kΩ
+
+![image](https://user-images.githubusercontent.com/105695077/170484442-59275b7a-348b-4472-8e15-797b4b358921.png)
+
+(d) I = 1.6 mA, R = 2.2 kΩ
+
+![image](https://user-images.githubusercontent.com/105695077/170484484-35e98c3d-c7a8-4a6f-bc90-e6227cd70886.png)
+
+(e) I = 250 μA, R = 1.0 kΩ
+
+![image](https://user-images.githubusercontent.com/105695077/170484512-93186b2a-6482-4735-a7dc-ba8bccdb3c72.png)
+
+(f) I = 500 mA, R = 1.5 MΩ
+
+![image](https://user-images.githubusercontent.com/105695077/170484551-400e5d8c-649e-46be-a595-52e8ee7d522e.png)
+
+(g) I = 850 μA, R = 10 MΩ
+
+![image](https://user-images.githubusercontent.com/105695077/170484589-95188778-44b6-40c6-8a53-99563b27bd06.png)
+
+(h) I = 75 μA, R = 47 Ω
+
+![image](https://user-images.githubusercontent.com/105695077/170484629-bdf5dd44-6683-44f9-9e1b-695a29a170b5.png)
+
 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
 
 ![image](https://user-images.githubusercontent.com/105695077/170404888-37f4289c-c4e0-4b68-b9af-4d8b90b6cf85.png)
+
+![image](https://user-images.githubusercontent.com/105695077/170484700-5e45bc3d-c3c0-413e-bef5-7413bae09026.png)
 
 28. Encuentre la resistencia de un reóstato para cada valor de V e I:
 
@@ -194,31 +226,43 @@ d) V= 5.5 V, I= 10 A
 
 e) V= 150 V, I= 0.5 A
 
+![image](https://user-images.githubusercontent.com/105695077/170484736-42e10bf1-69bb-4c43-8223-d661f9909e3d.png)
+
 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
--
+R = V/I = 6 V/2 mA = 3 kΩ
 
 32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
 
--
+R = V/I = 12 V/1 A = 12 Ω
 
 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15Ω.
 
--
+V = 120 V
+
+yo = 2 A
+
+R = V / yo
+
+R = 120 V / 2 A = 60 Ω
 
 36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 
 ![image](https://user-images.githubusercontent.com/105695077/170405664-6035b96b-21a2-4c58-b596-630fa9a162a6.png)
 
+El tercer foco se encuentra fundido.
+
 (Capitulo 4)
 
 2. Demuestre que hay 3.6 X 10^6 joules en un kilowatt-hora.
 
--
+1 kw= 1000 J/s
+
+1kw/h= 1000j/s * (3600s / 1h)= 3.6x10^6 J
 
 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
 
--
+P = J/t = 7500J/5h * (1h/3600s) = 0.4166 watts
 
 6. Convierta las siguientes cantidades en kilowatts:
 
