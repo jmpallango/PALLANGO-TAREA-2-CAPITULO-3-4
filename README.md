@@ -256,13 +256,11 @@ El tercer foco se encuentra fundido.
 
 2. Demuestre que hay 3.6 X 10^6 joules en un kilowatt-hora.
 
-1 kw= 1000 J/s
-
-1kw/h= 1000j/s * (3600s / 1h)= 3.6x10^6 J
+![image](https://user-images.githubusercontent.com/105695077/170485037-f27c177f-34b2-4b9b-b63e-95bb386df45d.png)
 
 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
 
-P = J/t = 7500J/5h * (1h/3600s) = 0.4166 watts
+![image](https://user-images.githubusercontent.com/105695077/170485146-9e990aea-495a-4b19-8125-463779bb21e5.png)
 
 6. Convierta las siguientes cantidades en kilowatts:
 
@@ -274,6 +272,8 @@ c) 160 W
 
 d) 50,000 W
 
+![image](https://user-images.githubusercontent.com/105695077/170485180-e709ce61-2658-49da-9a82-3c91c6cdbe03.png)
+
 8. Convierta las siguientes cantidades en miliwatts:
 
 a) 1W		
@@ -283,6 +283,8 @@ b) 0.4 W
 c) 0.002 W	
 
 d) 0.0125 W
+
+![image](https://user-images.githubusercontent.com/105695077/170485217-9efea0b2-aceb-45a6-9912-cdd775e43067.png)
 
 10. Convierta las siguientes cantidades en watts:
 
@@ -294,55 +296,65 @@ c) 350 mW
 
 d) 9000 µW
 
+![image](https://user-images.githubusercontent.com/105695077/170485265-41a395dc-6ca3-4404-be8b-6eefa986e059.png)
+
 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 
--
+![image](https://user-images.githubusercontent.com/105695077/170485318-53da3139-ced8-4b89-8e97-98c40e7cb033.png)
 
 14. Convierta 5x10^6 watts-minutos en kWh.
 
--
+5x10^6 W/min = 1 * 10^(-3) Kw / 1W = 500 Kw/min * (60 m)/(1 h) = 3 * 10^5 Kwh
 
 16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47Ω para consumir 25 J?
 
--
+![image](https://user-images.githubusercontent.com/105695077/170485375-5cf604c7-6a4d-451a-b136-0d9016d6ec1b.png)
 
 18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
 
--
+![image](https://user-images.githubusercontent.com/105695077/170485407-090c1ccc-5c46-4dba-a9c6-0bb518871232.png)
 
 20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4,7 KΩ?
 
--
+![image](https://user-images.githubusercontent.com/105695077/170485435-c2fd44d6-4dec-478c-a2b2-d842bed8476e.png)
 
 22. Si entre los extremos de un resistor de 680 Ω existen 60 V, ¿cuál es la potencia?
 
--
+P = V^2/R = 60 V/680 Ω = 0.09 W
 
 24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
 
--
+P = I^2 * R → R = P/I^2 → R = 100 W/(2 A)^2 R = 6.25 Ω
 
 26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
 
--
+P = I^2 * R = (10 mA)(6.8 kΩ) = 0.68 kW
 
 28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
 
 ![image](https://user-images.githubusercontent.com/105695077/170407816-95157d7e-50cc-410c-9d2e-31c1ecd814f5.png)
 
+![image](https://user-images.githubusercontent.com/105695077/170485531-b9449fff-f3ea-4b64-8dea-48a2c2659683.png)
+
 30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+
+I=1.25V/10 Ω =0.125A
+
+Ah= I.h = 0.125A * 90 = 11.25
+
+Promedio de la potencia seria 11.25 Ah
 
 32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
 
--
+capacidad = (1.5 A)(24 h) = 36 Ah
 
 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
 
--
+capacidad = (I)(x h) → I = (650 mAh)/(48 h) → I = 13.54 mA
 
 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
 
--
+Eficiencia = (Pentrada)/(Psalida)→ Psalida = Pentrada/Eficiencia → Psalida = 5 W/85 % → Psalida = 5.89 W
 
 # VIDEO:
 
