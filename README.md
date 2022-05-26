@@ -72,7 +72,11 @@ Objetivo Especifico:
 
 2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos
 
+-
+
 4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+
+-
 
 6. En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
 
@@ -85,6 +89,24 @@ c) V= 3V
 d) V= 4V
 
 e) V= 10V
+
+-
+
+8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
+
+-
+
+10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+
+![image](https://user-images.githubusercontent.com/105695077/170404209-a330f4e0-5e99-45d6-9b76-5ebe9de00483.png)
+
+12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+
+-
+
+14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+
+-
 
 
 
