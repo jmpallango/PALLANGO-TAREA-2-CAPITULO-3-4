@@ -39,3 +39,7 @@ Objetivo Especifico:
 
 (Capitulo 3)
 
+![image](https://user-images.githubusercontent.com/105695077/170400963-4e8f405d-3a22-4329-82c0-7aef701ce893.png)
+![image](https://user-images.githubusercontent.com/105695077/170401003-1565b017-58f2-48da-8ac9-5c03130ac982.png)
+![image](https://user-images.githubusercontent.com/105695077/170401073-74e0b342-8047-442a-9d7e-5fdf89f145cd.png)
+
