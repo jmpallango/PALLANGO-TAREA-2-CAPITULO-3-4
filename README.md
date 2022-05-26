@@ -182,9 +182,5 @@ e) V= 150 V, I= 0.5 A
 
 ![image](https://user-images.githubusercontent.com/105695077/170405664-6035b96b-21a2-4c58-b596-630fa9a162a6.png)
 
-37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la
-mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
-
--
 
 
