@@ -66,7 +66,7 @@ Objetivo Especifico:
 ![image](https://user-images.githubusercontent.com/105695077/170402808-fbf71f00-5627-4a9b-bda3-44b4d5f683b9.png)
 ![image](https://user-images.githubusercontent.com/105695077/170402840-c09d662f-a165-49a1-84e9-1f5010155a43.png)
 
+# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
-
-
+(Capitulo 3)
 
