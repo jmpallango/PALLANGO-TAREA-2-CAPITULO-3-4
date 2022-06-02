@@ -9,7 +9,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 
 
-TAREA 1: Capitulo 3 y 4 
+TAREA 2: Capitulo 3 y 4 
 
 
 
